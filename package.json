@@ -1,5 +1,5 @@
 {
-  "name": "framework-service",
+  "name": "ofa-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/framework-service.git"
+    "url": "git+https://github.com/gongxiancao/ofa-service.git"
   },
   "author": "gongxiancao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/framework-service/issues"
+    "url": "https://github.com/gongxiancao/ofa-service/issues"
   },
-  "homepage": "https://github.com/gongxiancao/framework-service#readme",
+  "homepage": "https://github.com/gongxiancao/ofa-service#readme",
   "dependencies": {
     "bluebird": "3.3.5",
     "lodash": "4.5.0",
